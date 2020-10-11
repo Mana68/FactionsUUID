@@ -32,11 +32,11 @@ public class AsciiMap
 	private static final int KEY_SIZE = FACTION_KEY_CHARS.length;
 	
 	// Map Heights & Widths
-	private static final int WIDTH = 49;
+	private static final int WIDTH = 9;
 	private static final int WIDTH_HALF = WIDTH / 2;
-	private static final int HEIGHT = 8;
+	private static final int HEIGHT = 4;
 	private static final int HEIGHT_HALF = HEIGHT / 2;
-	private static final int HEIGHT_EXTRA = 17;
+	private static final int HEIGHT_EXTRA = 9;
 	private static final int HEIGHT_EXTRA_HALF = HEIGHT_EXTRA / 2;
 	
 	private static final String TITLE_FORMAT = "(%d,%d) %s";
